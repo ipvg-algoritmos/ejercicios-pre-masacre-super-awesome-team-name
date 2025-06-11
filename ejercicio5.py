@@ -59,4 +59,12 @@ if suma_diagonal_1 > suma_diagonal_2:
 elif suma_diagonal_1 < suma_diagonal_2:
     print("Veredicto: la diagonal principal es MENOR.")
 else:
+<<<<<<< HEAD
     print("Veredicto: las dos diagonales SUMAN LO MISMO.")
+=======
+    print("Veredicto: las dos diagonales SUMAN LO MISMO.")
+   
+
+
+
+>>>>>>> f1cb8e3bbf9c783ae97eac4614541f97e851dac2
